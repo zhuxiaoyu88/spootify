@@ -1,2 +1,1 @@
-# spootify
-Created with CodeSandbox
+# Spootify
